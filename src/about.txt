@@ -1,0 +1,12 @@
+Ecommerce :
+
+React :
+    consist of:
+        Home page, navigation, routing
+        List of entities - movies, items,
+            -searching, sort, filter, Pagination
+        an individual page for each item 
+        Cart
+React Redux
+JSON server
+CSS Library - Chakra UI
