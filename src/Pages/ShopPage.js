@@ -1,9 +1,9 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { getData } from "../Redux/Product/action";
-import { Text, Grid, GridItem, Flex, SimpleGrid } from "@chakra-ui/react";
+import { Flex, SimpleGrid } from "@chakra-ui/react";
 import Filter from "../Components/Filter";
-import Product from "../Components/Product"
+
 import NewProduct from "../Components/NewProduct"
 
 

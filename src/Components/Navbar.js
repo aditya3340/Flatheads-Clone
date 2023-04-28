@@ -16,13 +16,13 @@ import {
   DrawerCloseButton,
   useDisclosure,
   Button,
-  Input,
+  
 } from "@chakra-ui/react";
 import {
   decreaseQty,
   increaseQty,
   removeFromCart,
-  totalAmount,
+  
 } from "../Redux/Cart/action";
 
 const Navbar = () => {

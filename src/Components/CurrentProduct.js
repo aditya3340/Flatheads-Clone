@@ -5,7 +5,7 @@ import Carousel from './Carousel';
 
 
 const CurrentProduct = ({product}) => {
-    const { id, name, color, gender, original_price, final_price, images } =
+    const { images } =
     product;
   return (
     <div >

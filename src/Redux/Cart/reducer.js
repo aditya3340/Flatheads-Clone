@@ -8,7 +8,7 @@ const initialState = {
 const cartReducer = (state = initialState, action) => {
     const {type, payload} = action
 
-    switch(type){   
+    switch(type){
         case ADD_TO_CART:
             //let's check in the cart if the same product is present
 

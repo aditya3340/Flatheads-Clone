@@ -4,14 +4,13 @@ import {
   CardFooter,
   Divider,
   Flex,
-  HStack,
+  
   Heading,
   Image,
   Text,
   Button,
   Box,
-  Icon,
-  SimpleGrid,
+  
 } from "@chakra-ui/react";
 import { ArrowRightIcon } from '@chakra-ui/icons'
 import React from "react";

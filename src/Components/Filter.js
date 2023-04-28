@@ -1,4 +1,4 @@
-import { Button, Spacer } from '@chakra-ui/react'
+import { Button} from '@chakra-ui/react'
 import React from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { getData, handleFilterForMen, handleFilterForWomen } from '../Redux/Product/action'
