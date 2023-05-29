@@ -84,7 +84,7 @@ export default function ProductSimple({ product }) {
             {gender}
           </Heading>
           <Stack direction={"row"} align={"center"}>
-            <Text fontWeight={800} fontSize={"xl"}>
+            <Text  fontSize={"xl"} color={"red"}>
               ${final_price}
             </Text>
             <Text textDecoration={"line-through"} color={"gray.600"}>
